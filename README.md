@@ -7,7 +7,6 @@ There are three classes called Bronze_card.java, Silver_card.java and Gold_card.
 the turnover value calculates the discount rate.
 
 There is a class called PayDesk.java. This class contains only static methods, which take care of different functionalities, like using
-different types of discount cards, printing all the data of a certain purchase using one of the cards and runnig an option menu to make use 
-of the functionalities.
+different types of discount cards, printing all the data of a certain purchase using one of the cards and runnig an option menu to make use of the functionalities. To chose an option from the menu you must simply type the number of the option and press Enter.
 
 In the Main.java class there is an instance for every type of discount card, and the method which starts the menu is called.

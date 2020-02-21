@@ -20,6 +20,10 @@ public class Gold_card extends Card {
 		{
 			this.discount_rate=2.0+turnover/100;
 		}
+		else
+		{
+			this.discount_rate=2.0;
+		}
 	}
 
 }
